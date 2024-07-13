@@ -86,7 +86,7 @@
   }
   
   /* 414px breakpoint */
-  @media (max-width: 414px) {
+  @media (max-width: 415px) {
     .sneaker-section {
         height: 90vh;
     }
