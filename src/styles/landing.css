@@ -86,12 +86,11 @@
   }
   
   /* 414px breakpoint */
-  @media (max-width: 415px) {
+  @media (max-width: 414px) {
     .sneaker-section {
         height: 90vh;
     }
     .sneaker-text h1 {
-        margin-top: 20px;
       font-size: 3rem;
       text-align: left;
     }
@@ -113,7 +112,7 @@
   }
   
   /* 412px breakpoint */
-  @media (max-width: 413px) {
+  @media (max-width: 412px) {
     .sneaker-section {
         height: 90vh;
     }
@@ -130,33 +129,7 @@
     }
   
     .sneaker-image img {
-        height: 500px;
-      margin-top: -20px;
-    }
-  
-    .explore-button {
-      padding: 8px 16px;
-      font-size: 0.8rem;
-    }
-  }
-  @media (max-width: 411px) {
-    .sneaker-section {
-        height: 90vh;
-    }
-    .sneaker-text h1 {
-        padding-top: 50px;
-      font-size: 3rem;
-      text-align: left;
-      line-height: 56px;
-    }
-  
-    .sneaker-text p {
-      font-size: 1.25rem;
-      text-align: left;
-    }
-  
-    .sneaker-image img {
-        height: 400px;
+        height: 255px;
       margin-top: -20px;
     }
   
